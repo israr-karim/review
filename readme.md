@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Demo
 some description
 
@@ -5,3 +6,6 @@ some description
 
 
 watch tutorials on youtube
+=======
+#this is demo 2
+>>>>>>> b4d9a5f (this is 2nd folder)
